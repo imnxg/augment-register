@@ -1,8 +1,4 @@
 {
-  "functions": {
-    "api/code.js": {
-    }
-  },
   "rewrites": [
     {
       "source": "/api/(.*)",
